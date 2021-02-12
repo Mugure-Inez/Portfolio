@@ -16,7 +16,7 @@ body{
 .section-1, .section-3{
     background-color: whitesmoke;
     height: 20vh;
-    background-image: url("../images/coding-cartoon-image.jpeg");
+    /* background-image: url("../images/coding-cartoon-image.jpeg"); */
 }
 .section-2, .section-4{
     background-color: grey;
