@@ -1,0 +1,51 @@
+body{
+    background-image: url("../images/computer-image.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.section-1, .section-2, .section-3, .section-4{
+    height: 20vh;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+}
+.section-1, .section-3{
+    background-color: whitesmoke;
+    height: 20vh;
+}
+.section-2, .section-4{
+    background-color: grey;
+}
+#section-1>h1{
+    font-style: italic;
+    font-size: medium;
+    text-align: center;
+    color: hotpink;
+}
+.section-1{
+    height: 20vh;
+}
+div.intro{
+    display: flex;
+    padding-top: 70px;
+}
+.intro>p{
+    float: right;
+    padding-left: 50px;
+}
+.c-blue{
+    color: blue;
+}
+.section-4{
+    height: 50vh;
+}
+.projects{
+    display: flex;
+}
+.projects>p{
+    margin: 10px;
+    width: 33.3%;
+    border: 1px solid black;
+    padding: 10px;
+}
