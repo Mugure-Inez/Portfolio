@@ -1,4 +1,4 @@
-# Project name: Travel Clerk
+# Project name: My Portfolio Landing Page
 
 ## Author: Mugure Inez
 
