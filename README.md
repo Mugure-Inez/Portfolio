@@ -2,10 +2,10 @@
 
 ## Author: Mugure Inez
 
-## Contact: +54 67890
+### Contact: +54 67890
 
-### Project description: This portfolio is my first landing page created while at Moringa School
+#### Project description: This portfolio is my first landing page created while at Moringa School
 
-### Seup instructions: To set up this landing page basic knowledge in CSS and HTML was tested and implementation required
+#### Set-up instructions: To set up this landing page basic knowledge in CSS and HTML was tested and implementation required
 
 ### [MIT LICENSE](https://raw.githubusercontent.com/Mugure-Inez/travel-clerk/main/LICENSE)
