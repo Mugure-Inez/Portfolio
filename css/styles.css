@@ -3,10 +3,10 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-color: blue;
+    background-color: maroon;
 }
 .section-1, .section-2, .section-3, .section-4{
-    height: 40vh;
+    height: 50vh;
     margin-left: 20px;
     margin-right: 20px;
     margin-top: 20px;
@@ -15,11 +15,11 @@ body{
 }
 .section-1, .section-3{
     background-color: whitesmoke;
-    height: 20vh;
+    height: 40vh;
     /* background-image: url("../images/coding-cartoon-image.jpeg"); */
 }
 .section-2, .section-4{
-    background-color: grey;
+    background-color: whitesmoke;
 }
 #section-1{
     font-style: inherit;
@@ -28,7 +28,7 @@ body{
     color: black;
 }
 .section-1{
-    height: 30vh;
+    height: 40vh;
 }
 div.intro{
     display: flex;
@@ -43,12 +43,12 @@ div.intro{
     text-align: center;
 }
 .section-4{
-    height: 50vh;
+    height: 40vh;
 }
-.projects{
+.projects, .about-me{
     display: flex;
 }
-.projects>p{
+.projects>p, .about-me>p{
     margin: 10px;
     width: 33.3%;
     border: 1px solid black;
