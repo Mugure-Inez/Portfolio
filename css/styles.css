@@ -1,5 +1,4 @@
 body{
-    /* background-image: url("../images/coding-cartoon-image.jpeg"); */
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -15,8 +14,7 @@ body{
 }
 .section-1, .section-3{
     background-color: whitesmoke;
-    height: 40vh;
-    /* background-image: url("../images/coding-cartoon-image.jpeg"); */
+    height: 52vh;
 }
 .section-2, .section-4{
     background-color: whitesmoke;
@@ -26,9 +24,6 @@ body{
     font-size: medium;
     text-align: center;
     color: black;
-}
-.section-1{
-    height: 40vh;
 }
 div.intro{
     display: flex;
@@ -45,18 +40,19 @@ div.intro{
 .section-4{
     height: 40vh;
 }
-.projects, .about-me{
+.projects, .about-me, .hobbies{
     display: flex;
 }
-.projects>p, .about-me>p{
+.projects>p, .about-me>p, .hobbies>p{
     margin: 10px;
     width: 33.3%;
-    border: 1px solid black;
+    border: 5px solid black;
     padding: 10px;
 }
-/* .section-1{
-    background-image: url(../images/computer-image.jpeg);
-} */
+.section-1{
+    background-color: whitesmoke;
+    height: 10vh;
+}
 /* h1{
     font-size: 200%;
     text-shadow: black;
